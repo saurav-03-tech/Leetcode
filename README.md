@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/saurav-03-tech/Leetcode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/saurav-03-tech/Leetcode/tree/master/0035-search-insert-position) |
+| [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +31,12 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
