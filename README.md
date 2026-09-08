@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0050-powx-n](https://github.com/saurav-03-tech/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saurav-03-tech/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/saurav-03-tech/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
@@ -34,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
