@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0509-fibonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
