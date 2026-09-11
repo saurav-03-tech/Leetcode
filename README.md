@@ -17,6 +17,7 @@
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -53,10 +54,12 @@
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -75,6 +78,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/saurav-03-tech/Leetcode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0509-fibonacci-number) |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -91,5 +95,6 @@
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
