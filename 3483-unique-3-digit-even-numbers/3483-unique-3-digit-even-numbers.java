@@ -7,28 +7,26 @@ class Solution {
             freq[digits[i]]++;
         }
         int count = 0;
-        for (int u = 0; u <= 8; u += 2) {
-            if (freq[u] == 0)
+        for (int one = 0; one <= 8; one += 2) {
+            if (freq[one] == 0){
                 continue;
-            freq[u]--;
-            for (int h = 1; h <= 9; h++) {
-                if (freq[h] == 0)
+            }
+            else{
+                freq[one]--;
+            }  
+            for (int hundred = 1; hundred <= 9; hundred++) {
+                if (freq[hundred] == 0){
                     continue;
-
-                freq[h]--;
-                for (int t = 0; t <= 9; t++) {
-
-                    if (freq[t] > 0) {
+                }  
+                freq[hundred]--;
+                for (int ten = 0; ten <= 9; ten++) {
+                    if (freq[ten] > 0) {
                         count++;
                     }
                 }
-
-                freq[h]++;
+                freq[hundred]++;
             }
-
-            freq[u]++;
-        }return count;
-        
-        
+            freq[one]++;
+        }return count;    
     }
 }
