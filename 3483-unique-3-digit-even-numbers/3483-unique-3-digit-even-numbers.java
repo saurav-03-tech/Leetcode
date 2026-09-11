@@ -6,27 +6,29 @@ class Solution {
         for(int i=0;i<digits.length;i++){
             freq[digits[i]]++;
         }
-        int count = 0;
-        for (int one = 0; one <= 8; one += 2) {
-            if (freq[one] == 0){
+        int ans = 0;
+        for (int one=0;one<=8;one+=2) {
+            if (freq[one]==0){
                 continue;
             }
             else{
                 freq[one]--;
-            }  
-            for (int hundred = 1; hundred <= 9; hundred++) {
-                if (freq[hundred] == 0){
+            }
+            for (int hundred=1;hundred<=9;hundred++) {
+                if (freq[hundred]==0){
                     continue;
-                }  
-                freq[hundred]--;
-                for (int ten = 0; ten <= 9; ten++) {
-                    if (freq[ten] > 0) {
-                        count++;
+                }
+                else{
+                    freq[hundred]--;
+                } 
+                for (int ten=0;ten<=9;ten++) {
+                    if (freq[ten]>0) {
+                        ans++;
                     }
                 }
                 freq[hundred]++;
             }
             freq[one]++;
-        }return count;    
+        }return ans;    
     }
 }
