@@ -17,6 +17,7 @@
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -97,4 +98,8 @@
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
