@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/saurav-03-tech/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saurav-03-tech/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saurav-03-tech/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
@@ -33,6 +35,7 @@
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/saurav-03-tech/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saurav-03-tech/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0509-fibonacci-number) |
 ## Newton's Method
@@ -54,12 +57,14 @@
 | ------- |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -102,4 +107,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
