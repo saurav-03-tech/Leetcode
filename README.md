@@ -13,6 +13,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/saurav-03-tech/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-03-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
@@ -89,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-03-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
