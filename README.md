@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saurav-03-tech/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/saurav-03-tech/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-03-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/saurav-03-tech/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/saurav-03-tech/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
