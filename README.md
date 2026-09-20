@@ -8,6 +8,7 @@
 | [0125-valid-palindrome](https://github.com/saurav-03-tech/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/saurav-03-tech/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/saurav-03-tech/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
