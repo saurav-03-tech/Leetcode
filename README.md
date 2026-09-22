@@ -14,6 +14,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/saurav-03-tech/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/saurav-03-tech/Leetcode/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/saurav-03-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-03-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/saurav-03-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
