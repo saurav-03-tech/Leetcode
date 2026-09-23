@@ -17,6 +17,7 @@
 | [0041-first-missing-positive](https://github.com/saurav-03-tech/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/saurav-03-tech/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-03-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurav-03-tech/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/saurav-03-tech/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/saurav-03-tech/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurav-03-tech/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/saurav-03-tech/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Math
@@ -51,6 +53,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/saurav-03-tech/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/saurav-03-tech/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurav-03-tech/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
 ## Greedy
