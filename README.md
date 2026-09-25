@@ -22,6 +22,7 @@
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/saurav-03-tech/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/saurav-03-tech/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurav-03-tech/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -73,6 +74,7 @@
 | [0169-majority-element](https://github.com/saurav-03-tech/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
+| [1051-height-checker](https://github.com/saurav-03-tech/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
@@ -138,4 +140,12 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurav-03-tech/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/saurav-03-tech/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/saurav-03-tech/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
