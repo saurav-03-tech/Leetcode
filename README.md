@@ -22,6 +22,7 @@
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0268-missing-number) |
+| [1089-duplicate-zeros](https://github.com/saurav-03-tech/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurav-03-tech/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -61,6 +62,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saurav-03-tech/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/saurav-03-tech/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
+| [1089-duplicate-zeros](https://github.com/saurav-03-tech/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
