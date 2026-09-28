@@ -8,6 +8,7 @@
 | [0125-valid-palindrome](https://github.com/saurav-03-tech/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/saurav-03-tech/Leetcode/tree/master/0344-reverse-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/saurav-03-tech/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -148,4 +149,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/saurav-03-tech/Leetcode/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
