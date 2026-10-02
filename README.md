@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/saurav-03-tech/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/saurav-03-tech/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0179-largest-number) |
@@ -110,6 +111,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saurav-03-tech/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/saurav-03-tech/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -159,5 +161,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/saurav-03-tech/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
