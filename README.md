@@ -31,6 +31,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saurav-03-tech/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/saurav-03-tech/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saurav-03-tech/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saurav-03-tech/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/saurav-03-tech/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/saurav-03-tech/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
